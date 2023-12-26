@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samareh. A Control/Electrical engineer working on robots and mechatronic systems. 
+- 👋 Hi, I’m a Control/Electrical engineer working on servomechanisms used in robotics/mechatronic systems. 
 - 👀 I’m interested in Data Science applications in my field.
-- 🌱 I’m currently learning ML and then I am going to delve into DL.
-- 💞️ I’m looking to collaborate on ML projects to improve myself.
+- 🌱 I’m currently learning ML and I am near to delve into DL/RL. 
+- 💞️ I’d like to collaborate on projects within my domain knowledge.
 - 📫 How to reach me : s.samareh.mostafavi@gmail.com
 
 <!---
