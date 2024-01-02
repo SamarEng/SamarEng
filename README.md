@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Control/Electrical engineer working on servomechanisms used in robotics/mechatronic systems. 
+- 👋 Hi, I’m an Electrical engineer specialized in control systems design and development mainly for robotics/mechatronic systems. 
 - 👀 I’m interested in Data Science applications in my field.
 - 🌱 I’m currently learning ML and I am near to delve into DL/RL. 
 - 💞️ I’d like to collaborate on projects within my domain knowledge.
