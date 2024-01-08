@@ -1,5 +1,5 @@
-- 👋 Hi, I’m an Electrical engineer specialized in control systems design and development mainly for robotics/mechatronic systems. 
-- 👀 I’m interested in Data Science applications in my field.
+- 👋 Hi, I design and develop control systems mainly for electromechanical systems.  
+- 👀 I’m interested in Data Science applications in robotics/mechatronics.
 - 🌱 I’m currently learning ML and I am near to delve into DL/RL. 
 - 💞️ I’d like to collaborate on projects within my domain knowledge.
 - 📫 How to reach me : s.samareh.mostafavi@gmail.com
